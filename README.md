@@ -1,7 +1,8 @@
 # Group 23 Final Project
 
 ## Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UP3DsW4Y3Qc" frameborder="0" allowfullscreen></iframe>
+
+[![Demo Video](https://img.youtube.com/vi/UP3DsW4Y3Qc/0.jpg)](https://www.youtube.com/watch?v=UP3DsW4Y3Qc)
 
 ---
 
